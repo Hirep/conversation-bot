@@ -1,3 +1,14 @@
+# Contains Telegram bot unique token
+config.py
+
+# Virtualenv
+.Python
+bin
+lib
+include
+venv
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
