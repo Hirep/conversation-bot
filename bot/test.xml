@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<aiml version="1.0">
+    <category>
+        <pattern>*</pattern>
+        <template>
+            <random>
+                <li>Мудило картонне</li>
+                <li>Кам’яне мудило</li>
+                <li>Совушка</li>
+            </random>
+        </template>
+    </category>
+</aiml>
