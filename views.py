@@ -5,12 +5,26 @@ from forms import *
 
 
 class IndexView(FlaskView):
-    route_base = '/'
-    def index(self):
+	def index(self):
+		return "hello"
+
+
+class FormView(FlaskView):
+
+    def bindex(self):
         form = LoginForm()
-        if form.validate_on_submit():
-            return 'Form successfully submited!'
-        return render_template("index.html", page_title= 'test', form= form)
+        return render_template('index.html', page_title='test', form=form)
+
+    def index(self):
+        #    form = ContactForm()
+        # return render_template('test.html')
+        return "hello"
+
+
+class TestView(FlaskView):
+    pass
 
 
 IndexView.register(app)
+TestView.register(app)
+FormView.register(app)
