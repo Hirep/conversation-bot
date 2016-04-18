@@ -1,8 +1,12 @@
+
+
+config.py
+
 #IDEA
 .idea
 
 # Contains Telegram bot unique token
-config.py
+teleBotConfig.py
 
 # Virtualenv
 .Python

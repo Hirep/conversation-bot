@@ -1,8 +1,9 @@
-import config
+from bot import teleBotConfig
 import telebot
 
+
 print("Starting bot...")
-bot = telebot.TeleBot(config.token)
+bot = telebot.TeleBot(teleBotConfig.token)
 
 
 @bot.message_handler(commands=['start', 'help'])
@@ -26,6 +27,3 @@ def handle_text(message):
 @bot.message_handler(func=lambda m: True)
 def any_msg(message):
     bot.send_message(message.chat.id, "Oh, what dfq is that")
-
-
-bot.polling()
