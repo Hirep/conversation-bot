@@ -1,0 +1,10 @@
+#1   1   NonEn   0.6842394288852279  W.W. Jacobs - Manners Makyth Man.txt
+#2   1   NonEn   0.6731801685612309  W.W. Jacobs - Sailor's Knots (Entire Collection).txt
+#3   0   0.804939260185149  Talbot Mundy - Hira Singh.txt
+#4   1   NonEn   0.6706535532994924  William Holmes McGuffey - McGuffey's Fourth Eclectic Reader.txt
+#5   0   0.7783523537803139  Amy Steedman - The Babe in the Bulrushes.txt
+#6   1   NonEn   0.006528835690968444  Mei Huang Fu - San Shuei Xiao Du.txt
+#7   0   0.7998020374571823  Herbert George Wells - Tales of Space and Time.txt
+#8   0   0.8094225372913898  Howard Pyle - Otto of the Silver Hand.txt
+#9   0   0.7942439237374472  Alvin Addison - Ellen Walton.txt
+#10   0   0.8125428951925568  August Evans Wilson - At the Mercy of Tiberius.txt

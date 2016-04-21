@@ -1,4 +1,11 @@
 
+#Corpus
+featured
+parsed
+#Jupyter
+*.ipynb
+
+*.pdf
 
 config.py
 
